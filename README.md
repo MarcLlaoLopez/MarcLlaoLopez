@@ -1,6 +1,8 @@
 ### Marc Llaó López👋
 
+Estudio a IES de l'Ebre el cicle formatiu de grau superior d'ASIX-DAM
 
+Enlace a una red social (https://github.com/MarcLlaoLopez)
 <!--
 **MarcLlaoLopez/MarcLlaoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
